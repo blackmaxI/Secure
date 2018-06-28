@@ -1,13 +1,13 @@
 help for install :)
 
 #install
--------------
+
 cd secure
--------------
+
 chmod +x install.sh
--------------
+
 ./install.sh
--------------
+
 ./launch.sh
 
 ------------------
